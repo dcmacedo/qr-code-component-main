@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[](./images/screenshot.jpg)
+[Screenshot](./images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [](https://github.com/dcmacedo/qr-code-component-main)
+- Solution URL: [Solução](https://github.com/dcmacedo/qr-code-component-main)
 
 ## My process
 
